@@ -1,1 +1,1 @@
-# -series-homework
+# series-homework
